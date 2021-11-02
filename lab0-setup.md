@@ -1,14 +1,10 @@
 # Lab0: Setup
 
-
-
-This is ideally to be done before the workshop begins so that we can dive into the code and break things down.
-
-For this workshop you will need the following:
-
-1. A Windows VM with Visual Studio .Net development installed with Defender turned off, or with an exclusion added to the folder where we will be developing our projects. In addition to this, the VM should have the following installed:&#x20;
-2. Notepad++&#x20;
-3. Process Hacker2&#x20;
-4. dnSpy&#x20;
-5. ConfuserEx
-6. A Kali VM.
+Download Virtualization Software like VMware Workstation Player (​https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0​) or VirtualBox (​https://www.virtualbox.org/wiki/Downloads​) 
+> Note: Although both work, the labs in this guide were prepared and tested using VirtualBox. 
+ 
+Download a Windows 10 Image (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise​) 
+For this machine, the recommendation is to allocate at least 4 GBs of RAM and 2 CPUs  
+ 
+Download a Kali Linux image 
+(​https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/​)
