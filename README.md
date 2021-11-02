@@ -1,7 +1,7 @@
-# Welcome to the Malware Development workshop.
+# Malware Development workshop.
 
-Congratulations! You made it to the workshop gitbook! Welcome on board! In this interactive workshop, we will take a look at the C# language and how we can leverage its reflective capabilities for fun and profit!
+> In order to be able to follow the workshop properly, it is highly recommended to go through Lab 0 before the start of the workshop, as this is a setup lab to get you up and ready.
 
-This workshop was designed to be as accessible as possible, even if you have never touched C# before. However, to achieve the optimal benefits of this workshop, it is advised that you are at least familiar with an object-oriented programming language.
+Welcome to the Malware Development workshop for AfricaHackon 2021. In this interactive workshop, we will take a look at the C# language and how to write malware focused on droppers/loaders that will run shellcode on the targets that give a meterpreter session back.
 
-Last but not least, have fun! In case you have any questions, do not hesitate to reach out.
+The flow of this workshop is 
