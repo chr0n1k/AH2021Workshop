@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to the Malware Development workshop.](README.md)
 
 ## The Company
 
