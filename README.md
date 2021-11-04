@@ -18,16 +18,44 @@ Amarjit Labhuram - [@Amarjit_Labu](https://twitter.com/Amarjit_Labu)
 ## Labs:
 
 Lab1: Introduction
-The goal of this lab is to introduce basic C# coding and use of .NETs Platform Invoke to access the Win32 API. We will also look at how to use System.Reflection.Assembly in powershell to run one of the programs without having to touch disk.
+------
+The goal of this lab is to introduce basic C# coding and use of .NETs Platform Invoke (p/invoke) to access the Win32 API. We will also look at how to use System.Reflection.Assembly in powershell to run one of the programs without having to touch disk.
 
 Lab2: Simple shellcode runner
+------
+The goal of this lab is to be able to create a simple shellcode runner that will execute shellcode generated from msfvenom in csharp format on a Windows 10 device. We will look at the various Win32 API calls needed to achieve this and leverage p/invoke to achieve this.
 
 Lab3: AV signature and heuristic evasion
+------
+The goal of this lab is to enhance the shellcode runner to be able to use some behavioural tactics to bypass sandbox and AV checks.
 
 Lab4: Simple process injection
+------
+The goal of this lab is to understand process injection and enhance our shellcode runner to be able to spawn a notepad process and inject into it.
 
 Lab5: RemoteThreadSuspended process injection
+------
+The goal of this lab is to enhance the Simple process injection code to create memory regions with lower malicious footprint.
 
 Lab6: QueueUserAPC process injection
+------
+The goal of this lab is to leverage the Queue Asynchronus Procedure Call to do process injection.
 
 Lab7: Let's bypass userland hooks [EDR]
+------
+The goal of this lab is to understand what are system calls and the hooking that EDRs do on to ntdll.dll to detect use of malicious syscalls and block them. We will rewrite the QueueUserAPC process injection code to dynamically invoke the syscalls using d/invoke.
+
+## Goals:
+* AntiVirus bypass
+* Defense evasion by Process Injection
+* Defense evasion of EDR's that use Userland hooks.
+
+## Acknowledgments
+
+All the code snippets in this workshop started from a Github repository/gist, a Stack Overflow code snippet or a Google search. Special mention goes out to:
+
+* Mauricio Velazco - [Github](https://github.com/mvelazc0) | [Twitter](https://twitter.com/mvelazco)
+* Jean Francois Maes - [Github](https://github.com/jfmaes) | [Twitter](https://twitter.com/Jean_Maes_1994)
+* John Tear - [Github](https://github.com/plackyhacker)
+* Cas Van Cooten - [Github](https://github.com/chvancooten) | [Twitter](https://twitter.com/chvancooten)
+* Chirag Savla - [Github](https://github.com/3xpl01tc0d3r) | [Twitter](https://twitter.com/chiragsavla94)
