@@ -10,7 +10,7 @@ The flow of this workshop is building out the code like how virus research looks
 
 * Prerequisites: Basic to intermediate programming/scripting skills. Prior experience with C# helps but not required.
 
-* Materials: Laptop with virtualization software. A Windows 10 virtual machine and a Kali Linux Virtual Machine.
+* Materials: Laptop/Desktop with virtualization software. A Windows 10 virtual machine and a Kali Linux Virtual Machine.
 
 ## Author: 
 Amarjit Labhuram - [@Amarjit_Labu](https://twitter.com/Amarjit_Labu)
