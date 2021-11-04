@@ -23,7 +23,7 @@ The goal of this lab is to introduce basic C# coding and use of .NETs Platform I
 
 Lab2: Simple shellcode runner
 ------
-The goal of this lab is to be able to create a simple shellcode runner that will execute shellcode generated from msfvenom in csharp format on a Windows 10 device. We will look at the various Win32 API calls needed to achieve this and leverage p/invoke to achieve this.
+The goal of this lab is to be able to create a simple shellcode runner that will execute shellcode generated from msfvenom in csharp format on a Windows 10 device. We will look at the various Win32 API calls needed and leverage p/invoke to achieve this.
 
 Lab3: AV signature and heuristic evasion
 ------
