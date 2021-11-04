@@ -6,11 +6,11 @@ The flow of this workshop is building out the code like how virus research looks
 
 > In order to be able to follow the workshop properly, it is highly recommended to go through Lab 0 before the start of the workshop, as this is a setup lab to get you up and ready. You can get it here: [Lab0](https://github.com/chr0n1k/AH2021Workshop/blob/master/LabGuide/AH2021%20Workshop%20-%20Lab0.pdf)
 
-Skill Level: Intermediate
+* Skill Level: Intermediate
 
-Prerequisites: Basic to intermediate programming/scripting skills. Prior experience with C# helps but not required.
+* Prerequisites: Basic to intermediate programming/scripting skills. Prior experience with C# helps but not required.
 
-Materials: Laptop with virtualization software. A Windows 10 virtual machine and a Kali Linux Virtual Machine.
+* Materials: Laptop with virtualization software. A Windows 10 virtual machine and a Kali Linux Virtual Machine.
 
 ## Author: 
 Amarjit Labhuram - [@Amarjit_Labu](https://twitter.com/Amarjit_Labu)
