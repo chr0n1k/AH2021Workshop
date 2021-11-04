@@ -43,7 +43,7 @@ The goal of this lab is to leverage the Queue Asynchronus Procedure Call to do p
 
 Lab7: Let's bypass userland hooks [EDR]
 ------
-The goal of this lab is to understand what are system calls and the hooking that EDRs do on to ntdll.dll to detect use of malicious syscalls and block them. We will rewrite the QueueUserAPC process injection code to dynamically invoke the syscalls using d/invoke.
+The goal of this lab is to understand what hooking EDRs do on to ntdll.dll to detect use of malicious syscalls and block them. We will rewrite the QueueUserAPC process injection code to dynamically invoke the syscalls using d/invoke and effectively bypass any EDR that uses userland hooks only.
 
 ## Goals:
 * AntiVirus bypass
