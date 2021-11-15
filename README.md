@@ -54,7 +54,7 @@ The goal of this lab is to understand what hooking EDRs do on to ntdll.dll to de
 
 All the code snippets in this workshop started from a Github repository/gist, a Stack Overflow code snippet or a Google search. Special mention goes out to:
 
-* Mauricio Velazco - [Github](https://github.com/mvelazc0) | [Twitter](https://twitter.com/mvelazco)
+* Mauricio Velazco - [defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) | [Github](https://github.com/mvelazc0) | [Twitter](https://twitter.com/mvelazco)
 * Jean Francois Maes - [Github](https://github.com/jfmaes) | [Twitter](https://twitter.com/Jean_Maes_1994)
 * John Tear - [Github](https://github.com/plackyhacker)
 * Cas Van Cooten - [Github](https://github.com/chvancooten) | [Twitter](https://twitter.com/chvancooten)
